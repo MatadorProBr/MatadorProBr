@@ -20,10 +20,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          plugin_gists: yes
-          plugin_introduction: yes
-          plugin_introduction_title: yes
           plugin_notable: yes
+          plugin_notable_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
           repositories_forks: yes

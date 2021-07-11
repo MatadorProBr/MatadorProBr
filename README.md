@@ -4,7 +4,7 @@
 
 # Discord
 
-![Discord](https://discord.c99.nl/widget/theme-4/451467812641177611.png)
+[![Discord](https://discord.c99.nl/widget/theme-4/451467812641177611.png)](https://discord.com/users/451467812641177611)
 
 # GitHub Profile Views
 

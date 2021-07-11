@@ -20,11 +20,10 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          plugin_followup: yes
-          plugin_followup_sections: repositories
           plugin_gists: yes
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_notable: yes
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          repositories_forks: yes

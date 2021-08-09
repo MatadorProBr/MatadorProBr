@@ -4,7 +4,7 @@
 
 # Discord
 
-[![Discord](https://discord.c99.nl/widget/theme-3/451467812641177611.png)](https://discord.com/users/451467812641177611)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/451467812641177611)](https://discord.com/users/451467812641177611)
 
 # GitHub Profile Views
 

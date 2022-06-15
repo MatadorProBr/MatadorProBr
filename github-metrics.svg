@@ -251,7 +251,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>revanced/revanced-patches</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧩 Official patches maintained by ReVanced</div>
@@ -304,7 +304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>revanced/revanced-integrations</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔩 Integrations containing helper classes for ReVanced. Originally maintained by Vanced.</div>
@@ -357,7 +357,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>revanced/revanced-cli</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💻 Command line application as an alternative to the ReVanced Manager</div>
@@ -410,7 +410,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>revanced/revanced-patcher</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💉 Patcher used by ReVanced</div>
@@ -460,7 +460,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jun 2022, 00:40:38 (timezone America/Sao_Paulo) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 15 Jun 2022, 01:34:53 (timezone America/Sao_Paulo) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

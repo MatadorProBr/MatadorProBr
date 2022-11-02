@@ -247,7 +247,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spicetify/spicetify-cli</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.</div>
@@ -300,7 +300,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spicetify/spicetify-marketplace</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download extensions and themes directly from Spicetify</div>
@@ -457,7 +457,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2022, 16:16:33 (timezone America/Sao_Paulo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 2 Nov 2022, 17:19:30 (timezone America/Sao_Paulo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

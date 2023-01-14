@@ -349,7 +349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Aliucord/AliucordManager</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Aliucord Manager - Aliucord Installer rewrite in Kotlin and Jetpack Compose</div>
@@ -452,7 +452,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jan 2023, 11:13:11 (timezone America/Sao_Paulo) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 14 Jan 2023, 12:14:34 (timezone America/Sao_Paulo) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

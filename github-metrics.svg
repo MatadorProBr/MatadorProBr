@@ -235,7 +235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KieronQuinn/NowPlaying</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Now Playing component of Ambient Music Mod</div>
@@ -341,7 +341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LawnchairLauncher/lawnfeed</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Adds Google Feed to Lawnchair.</div>
@@ -438,7 +438,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2023, 13:21:28 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Jul 2023, 14:15:06 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

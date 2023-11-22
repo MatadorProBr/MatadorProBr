@@ -392,7 +392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Jackett/Jackett</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Oct 23 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">API Support for your favorite torrent trackers</div>
@@ -442,7 +442,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2023, 15:18:41 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2023, 16:12:05 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

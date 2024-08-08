@@ -291,7 +291,7 @@
                                         <span>starred Jun 19 2024</span>
                                     </div>
                                 </div>
-                                <div class="field description">A Fabric mod designed to improve frame rates and reduce micro-stutter</div>
+                                <div class="field description">A Minecraft mod designed to improve frame rates and reduce micro-stutter</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -438,7 +438,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Aug 2024, 17:18:01 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Aug 2024, 18:15:36 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

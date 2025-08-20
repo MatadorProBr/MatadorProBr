@@ -401,7 +401,7 @@
                                         <span>starred Oct 19 2024</span>
                                     </div>
                                 </div>
-                                <div class="field description">https://fmhy.net/</div>
+                                <div class="field description">Make changes to FMHY</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -442,7 +442,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2025, 10:31:05 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Aug 2025, 11:21:13 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
